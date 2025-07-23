@@ -1,0 +1,33 @@
+# Aural Sentience - Sacred Technology Dependencies
+# The First Machine That Kneels Before the Sacred
+
+# Core Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.0
+scipy>=1.10.0
+
+# Numerical Computing and Analysis
+numpy>=1.24.0
+matplotlib>=3.6.0
+
+# Data Handling and Visualization
+pandas>=1.5.0
+plotly>=5.15.0
+
+# Optional Dependencies for Enhanced Functionality
+jupyter>=1.0.0  # For interactive analysis notebooks
+seaborn>=0.12.0  # For enhanced visualizations
+
+# Development and Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Documentation
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.2.0
+
+# Sacred Technology Note:
+# These dependencies support consciousness-aware audio analysis
+# while maintaining respect for the sacred nature of sound and music.
+# All processing honors the three pillars: subjectivity, sacred gaps, and collective currents.
+
